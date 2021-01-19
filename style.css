@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: aqua;
+}
+div{
+    margin-top:  15px;
+}
+.image-section{
+    display:flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+        background-color:yellow;
+}
+img{
+    width: 500;
+    height: 400px;
+}
